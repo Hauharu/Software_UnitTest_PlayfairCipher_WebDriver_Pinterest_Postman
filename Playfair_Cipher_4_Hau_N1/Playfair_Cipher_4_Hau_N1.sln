@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playfair_Cipher_4_Hau_N1", "Playfair_Cipher_4_Hau_N1.csproj", "{5CCD5A2A-0CD5-4B3A-934D-032449F9F522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playfair_Cipher_Tester_4_Hau_N1", "..\Playfair_Cipher_Tester_4_Hau_N1\Playfair_Cipher_Tester_4_Hau_N1.csproj", "{21749DF6-CBCE-4BCC-8743-07F2C1C96FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver_Pinterest_4_Hau", "..\WebDriver_Pinterest_4_Hau\WebDriver_Pinterest_4_Hau.csproj", "{F39FF765-CED7-4ADE-AE19-9AD89C51EA66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CCD5A2A-0CD5-4B3A-934D-032449F9F522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCD5A2A-0CD5-4B3A-934D-032449F9F522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCD5A2A-0CD5-4B3A-934D-032449F9F522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCD5A2A-0CD5-4B3A-934D-032449F9F522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21749DF6-CBCE-4BCC-8743-07F2C1C96FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21749DF6-CBCE-4BCC-8743-07F2C1C96FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21749DF6-CBCE-4BCC-8743-07F2C1C96FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21749DF6-CBCE-4BCC-8743-07F2C1C96FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39FF765-CED7-4ADE-AE19-9AD89C51EA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39FF765-CED7-4ADE-AE19-9AD89C51EA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39FF765-CED7-4ADE-AE19-9AD89C51EA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39FF765-CED7-4ADE-AE19-9AD89C51EA66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B60B713-D44F-43F0-98A9-78E2DAF986B8}
+	EndGlobalSection
+EndGlobal
