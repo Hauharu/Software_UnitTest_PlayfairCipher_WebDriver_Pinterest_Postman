@@ -1,0 +1,9 @@
+input_4_Hau,key_4_Hau,operation_4_Hau,Expected_4_Hau
+"nguyenthanhbao","bao","Encrypt","MHTZHKYNCLECOC"
+"hello","truong dai hoc thong tin","Encrypt","akpvqt"
+"goodbye","cong nghe thong tin","Encrypt","hncfaziv"
+"message","dh cong nghe thong tin","Encrypt","faryuiet"
+"IGGNOIIZ","dai hoc cong nghe thong tin","Decrypt","xinchaox"
+"AKPVQT","truong dai hoc thong tin","Decrypt","helxlo"
+"HNCFAZIV","cong nghe thong tin","Decrypt","goodbyex"
+"FARYUIET","dh cong nghe thong tin","Decrypt","mesxsage"
