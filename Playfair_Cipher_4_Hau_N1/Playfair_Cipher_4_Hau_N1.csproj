@@ -101,18 +101,17 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="src\Alphabet_4_Hau.cs" />
-    <Compile Include="src\Coordinate_4_Hau.cs" />
+    <Compile Include="src_4_Hau\Alphabet_4_Hau.cs" />
+    <Compile Include="src_4_Hau\Coordinate_4_Hau.cs" />
     <Compile Include="Playfair_Cipher_4_Hau.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Playfair_Cipher_4_Hau.Designer.cs">
       <DependentUpon>Playfair_Cipher_4_Hau.cs</DependentUpon>
     </Compile>
-    <Compile Include="src\Matrix_4_Hau.cs" />
-    <Compile Include="src\MatrixPlayFair_4_Hau.cs" />
-    <Compile Include="src\Matrix_Int_4_Hau.cs" />
-    <Compile Include="src\PlayFair_4_Hau.cs" />
+    <Compile Include="src_4_Hau\Matrix_4_Hau.cs" />
+    <Compile Include="src_4_Hau\MatrixPlayFair_4_Hau.cs" />
+    <Compile Include="src_4_Hau\PlayFair_4_Hau.cs" />
     <Compile Include="Program_4_Hau.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Playfair_Cipher_4_Hau.resx">

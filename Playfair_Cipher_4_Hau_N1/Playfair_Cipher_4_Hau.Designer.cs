@@ -69,7 +69,7 @@
             this.btnTaoMaTran_4_Hau.Name = "btnTaoMaTran_4_Hau";
             this.btnTaoMaTran_4_Hau.Size = new System.Drawing.Size(359, 63);
             this.btnTaoMaTran_4_Hau.TabIndex = 2;
-            this.btnTaoMaTran_4_Hau.Text = "Tạo_ma_Trận_4_Hau";
+            this.btnTaoMaTran_4_Hau.Text = "Tạo_ma_trận_4_Hau";
             this.btnTaoMaTran_4_Hau.UseVisualStyleBackColor = true;
             this.btnTaoMaTran_4_Hau.Click += new System.EventHandler(this.btnTaoMaTran_4_Hau_Click);
             // 
